@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "https://cdn.jsdelivr.net/gh/mond-wongsathorn/universal-login-file@main/static/js/main.a2735ca7.js",
+    "static/js/787.3ea58a07.chunk.js": "https://cdn.jsdelivr.net/gh/mond-wongsathorn/universal-login-file@main/static/js/787.3ea58a07.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/mond-wongsathorn/universal-login-file@main/index.html",
+    "main.a2735ca7.js.map": "https://cdn.jsdelivr.net/gh/mond-wongsathorn/universal-login-file@main/static/js/main.a2735ca7.js.map",
+    "787.3ea58a07.chunk.js.map": "https://cdn.jsdelivr.net/gh/mond-wongsathorn/universal-login-file@main/static/js/787.3ea58a07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a2735ca7.js"
+  ]
+}
